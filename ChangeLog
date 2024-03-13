@@ -1,0 +1,31 @@
+2024-03-08  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .github/workflows/ci.yaml: Add continuous integration support
+
+2024-03-05  Dirk Eddelbuettel  <edd@debian.org>
+
+	* tests/simpleTests.R: Added basic tests
+	* tests/simpleTests.Rout.save: Added reference results
+
+2024-03-04  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/incoming.R: Add check for connectivity to CRAN, run example
+	* man/incoming.Rd: Run example
+
+2024-03-03  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/incoming.R: Use curl for parallel asynchronous downloads instead
+	of relying on R to fork for parallel reads, minor other edits
+
+2024-03-02  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/incoming.R: Add 'waiting' to default of 'auto', add
+	'sort' option used by `ciw.r` in `littler`
+
+2024-02-29  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Add a README
+
+2024-02-28  Dirk Eddelbuettel  <edd@debian.org>
+
+	* */*: Initial commit of fully working 0.0.1 draft

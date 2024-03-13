@@ -1,0 +1,10 @@
+59f6d40265d3e37b65c55756e6e32077 *ChangeLog
+1615703d0d24ebb0619d9d77c871296f *DESCRIPTION
+0bc1a2600a9b110f8d0ac1ffdd3275c0 *NAMESPACE
+4be5f44740b3ccc2dcc6658ffb935a6a *R/incoming.R
+dd6872b946fd655402e3db5676d4fe3d *README.md
+f2b9a7d19b0a3e88c205e6b55a17310b *build/partial.rdb
+20cc93558e27b899a1bb68560a023d85 *man/ciw-package.Rd
+7f106d1af1c71591a2d8895f5f1fd7cc *man/incoming.Rd
+8bc874a5174a16834c66bb408fbd813c *tests/simpleTests.R
+1ec49d271cb8bf7628a1ccec54e8b84a *tests/simpleTests.Rout.save
